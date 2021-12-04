@@ -1,0 +1,104 @@
+/*Sitenin Ana yapısı*/
+body {
+    background-color:#E8EAE6 ;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color:#000500ff ;
+}
+nav {
+    background-color: #CFDAC8;
+}
+
+.header-table {
+   color:black;
+   background-color:#7C9473;
+}
+
+
+/* Navigasyon ayarları */
+
+
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.nav_table {
+  float: left;
+}
+
+.nav_table  a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav_table  a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #7C9473;
+}
+
+
+
+.tarifler{
+    border-spacing: 30px;
+}
+
+/*Sipariş Butonları*/
+
+.p_button {
+  
+
+    background-color: #7C9473; 
+    border: none;
+    color: white;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+   
+  }
+
+  .p_button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+
+
+  /* Sipariş bölümü için*/
+
+  .container {
+    background-color: #7C9473; 
+    border: none;
+    color: white;
+    /*padding: 200px 350px;*/
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    /* margin: 8px 10px; */
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+
+  }
+
+  .form-control {
+    
+    margin: 8px 10px;
+
+
+  }
