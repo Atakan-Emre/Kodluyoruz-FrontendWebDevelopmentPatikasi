@@ -15,6 +15,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Frontend Web Development Patika
 * _6-JavaScript Pratiği-1_
 * _7-Todolist(JavaScript todolist uygulaması)_
 * _8-AsianKitche(JavaScript Kitchen Menü)_
+* _9-Instagram Bootstrap Clone_
+* _10-Lınkedın Bootstrap Clone_
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
