@@ -7,13 +7,14 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Frontend Web Development Patika
 
 ## Projeler
 
-* _Project1 (Index Oluşturma)_
-* _Project2 (Index Oluşturma)_
-* _Project3 (Yemek Tarifleri)_
-* _Project4 (Google Old Page)_
-* _Project5 (Google New Page)_
-* _Project6 (JavaScript Pratiği-1)_
+* _1-Index Oluşturma_
+* _2-Index Oluşturma_
+* _3-Yemek Tarifleri_
+* _4-Google Old Page_
+* _5-Google New Page_
+* _6-JavaScript Pratiği-1_
 * _7-Todolist(JavaScript todolist uygulaması)_
+* _8-AsianKitche(JavaScript Kitchen Menü)_
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
