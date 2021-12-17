@@ -13,6 +13,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Frontend Web Development Patika
 * _Project4 (Google Old Page)_
 * _Project5 (Google New Page)_
 * _Project6 (JavaScript Pratiği-1)_
+* _7-Todolist(JavaScript todolist uygulaması)_
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
